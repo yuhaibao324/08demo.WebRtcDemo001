@@ -1,0 +1,9 @@
+新建一个web项目，把文件放到相应位置即可：index.jsp放在根目录
+
+注意：请使用tomcat8
+
+注意：index请修改IP地址：
+	1.websocket
+	2.邀请链接的IP地址
+
+访问：http://IP:8080/WebRTC/msg
