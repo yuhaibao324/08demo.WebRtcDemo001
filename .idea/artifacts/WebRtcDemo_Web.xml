@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebRtcDemo:Web">
+    <output-path>$PROJECT_DIR$/classes/artifacts/WebRtcDemo_Web</output-path>
+    <root id="archive" name="WebRtcDemo_Web.war">
+      <element id="artifact" artifact-name="WebRtcDemo:Web exploded" />
+    </root>
+  </artifact>
+</component>
